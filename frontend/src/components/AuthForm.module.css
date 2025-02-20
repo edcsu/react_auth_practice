@@ -1,6 +1,7 @@
 .form {
   max-width: 40rem;
   margin: 2rem auto;
+  padding: 0 3rem;
 }
 
 .form label,
